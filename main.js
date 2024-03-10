@@ -899,7 +899,7 @@ function hcAlkene() {
 }
 function hcAlkyne() {
   f_and_ns = {
-    0: ["C2H2", "اتیلن", "CH≡CH"],
+    0: ["C2H2", "اتین", "CH≡CH"],
     1: ["C3H4", "پروپین", "CH≡C-CH3"],
     2: ["C4H6", "بوتین", "CH≡C-CH2-CH3"],
     3: ["C5H8", "پنتین", "CH≡C-CH2-CH2-CH3", "CH≡C-(CH2)2-CH3"],
